@@ -1,5 +1,11 @@
-# Getting Started with Create React App
+# Markdown Previewer 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
 
+![An image about the project](https://github.com/CarlosMayo1/markdown-previewer/blob/master/src/img/markdown-previewer.PNG)
+
+About using React. To see it you could visitin [Mardown Preview - Codepen](https://codepen.io/CarlosMayo1/pen/qBybOwM)
+
+## Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
